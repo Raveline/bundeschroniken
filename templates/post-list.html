@@ -1,0 +1,14 @@
+<ul>
+    $for(posts)$
+        <li class="post">
+            $if(image)$
+            <img src="/images/$image$"/>
+            $endif$
+            <p class="publicationdate">$date$</p>
+            <a href="$url$">$title$</a> 
+            $if(soustitre)$
+            <p class="subtitle">$soustitre$</p>
+            $endif$
+        </li>
+    $endfor$
+</ul>

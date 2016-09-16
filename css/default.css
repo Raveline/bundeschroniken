@@ -1,0 +1,123 @@
+#banner {
+    font-size: 2.2em;
+    font-weight: bold;
+    text-align: center;
+    margin: .3em;
+}
+
+#banner a {
+    color: black;
+    text-decoration: none;
+}
+
+.sitedesc {
+    font-size: .7em;
+    font-style: italic;
+    text-align: center;
+}
+
+body {
+    color: black;
+    font-size: 16px;
+    background-color:#00559e;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1.10em;
+}
+
+div.container {
+    margin: 0px auto 0px auto;
+    background-color:white;
+    width: 600px;
+    padding: 0 1em 0 1em;
+    height: 100%;
+}
+
+div#header {
+    border-bottom: solid 2px #000;
+    margin-bottom: 30px;
+    padding: 12px 0px 12px 0px;
+}
+
+div#logo a {
+    color: black;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+div#header #navigation {
+    text-align: right;
+}
+
+div#header #navigation a {
+    color: black;
+    font-size: 18px;
+    margin-left: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+div#footer {
+    color: #555;
+    font-size: 12px;
+    margin-top: 30px;
+    padding: 12px 0px 12px 0px;
+    text-align: right;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+div.info {
+    color: #555;
+    font-size: 14px;
+    font-style: italic;
+}
+
+li.post {
+    display: block;
+    border: solid 1px;
+    padding: 1em;
+    margin: 1em 0 1em 0;
+    height: 85px;
+}
+
+li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 2em;
+    color: #00559e;
+}
+
+.content p {
+    line-height: 1.3em;
+    font-family: "Liberation serif", serif;
+}
+
+li img {
+   max-width: 150px;
+   max-height: 85px;
+   float:right;
+}
+
+img.post-image {
+   max-width: 300px;
+   float: left;
+   margin: 1em;
+}
+
+.publicationdate {
+   margin: 0;
+   font-size: .8em;
+   font-style: italic;
+}
