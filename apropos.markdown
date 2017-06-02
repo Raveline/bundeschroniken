@@ -12,26 +12,31 @@ désastreux, mais où le jeu allemand m'est apparu dans la splendeur de sa
 construction aussi collective que lisible pour l'amateur peu éclairé que
 j'étais - et que je suis toujours. Mon anglophilie s'est toujours arrêté au
 sport; je ne pouvais donc qu'adorer une équipe capable de mettre fin aux
-discours incessant sur la supériorité des *Three Lions*. Et ainsi, je suis
-devenu un fervent supporter de l'équipe d'Allemagne. Y compris lorsqu'une
-équipe de France alliant un talent indéniable et une chance non moins certaine
-vint avoir raison d'elle à l'Euro 2016.
+discours incessants que j'entendais alors sur la supériorité des *Three Lions*.
+Et ainsi, je suis devenu un fervent supporter de l'équipe d'Allemagne (il faut
+bien dire que l'équipe de France, cette même année, ne donnait pas de folles
+envies de patriotisme en matière sportive). Et je lui suis resté fidèle, la
+soutenant même lorsqu'une équipe de France renouvelée, alliant un talent
+indéniable à une chance non moins certaine vint avoir raison des hommes de Jogi
+Löw à l'Euro 2016.
 
 Disons le tout net : je n'ai aucune culture footballistique, et je goûte
 presque uniquement les charmes spectaculaires d'un jeu d'attaque permanent. Je
 conviens volontiers que les défenses imprenables sont techniquement
 impressionnantes, que la danse ivre du *tiki-taka* sans attaque frontale peut
-avoir son charme. Néanmoins, rien ne me plaît plus qu'une bonne vieille
-offensive forcenée, collective, avec dans l'idéal ce brin de talent individuel
-immortalisé dans les années 1970 façon *und Netzer kam aus der Tiefe des Raumes*.
+avoir son charme, particulièrement pour les amoureux de trigonométrie.
+Néanmoins, rien ne me plaît plus qu'une bonne vieille offensive forcenée,
+collective, avec dans l'idéal ce brin de talent individuel immortalisé dans les
+années 1970 façon *und Netzer kam aus der Tiefe des Raumes*.
 
 C'est à ce moment que j'ai pris la décision de me pencher un peu plus sur le
 football, et sur ce qu'on me décrivait toujours comme sa forme supérieure, le
 football de club. En bon germanophile, je ne pouvais que m'intéresser à la
 *Bundesliga*, et n'ayant pas d'attache particulière sur le territoire allemand,
-me restait à choisir un club dont le style et l'histoire m'intéressait. J'ai
-opté pour Hoffenheim, et sa stratégie d'attaque tellement excessive, le
-désastre de sa défense, son impopularité légendaire.
+me restait à choisir un club dont le style m'intéressait. J'ai opté pour
+Hoffenheim, qui à défaut d'une longue histoire, avait pour lui sa stratégie
+d'attaque tellement excessive, le désastre de sa défense, son impopularité
+légendaire, et un potential dramatique sans pareil.
 
 Ce blog me permet de ne pas rendre fou la moitié de mes followers Twitter en
 décrivant, en avance, les clubs que Hoffenheim va rencontrer - c'est aussi à

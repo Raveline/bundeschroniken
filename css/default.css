@@ -28,7 +28,7 @@ body {
 div.container {
     margin: 0px auto 0px auto;
     background-color:white;
-    width: 600px;
+    width: 45%;
     padding: 0 1em 0 1em;
     height: 100%;
 }
@@ -37,6 +37,7 @@ div#header {
     border-bottom: solid 2px #000;
     margin-bottom: 30px;
     padding: 12px 0px 12px 0px;
+    font-family: sans-serif;
 }
 
 div#logo a {
@@ -57,7 +58,7 @@ div#header #navigation a {
     margin-left: 12px;
     text-decoration: none;
     text-transform: uppercase;
-    font-family: sans-serif;
+    font-family: 'Abel', sans-serif;
 }
 
 div#footer {
@@ -68,8 +69,12 @@ div#footer {
     text-align: right;
 }
 
+h1, h2, h3, h4 {
+    font-family: 'Abel', sans-serif;
+}
+
 h1 {
-    font-size: 24px;
+    font-size: 2em;
 }
 
 h2 {
@@ -93,6 +98,7 @@ li.post {
 }
 
 li a {
+    font-family: 'Abel', sans-serif;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 2em;
@@ -101,7 +107,7 @@ li a {
 
 .content p {
     line-height: 1.3em;
-    font-family: "Liberation serif", serif;
+    font-family: "Playfair Display", serif;
 }
 
 li img {
@@ -112,12 +118,25 @@ li img {
 
 img.post-image {
    max-width: 300px;
-   float: left;
    margin: 1em;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .publicationdate {
    margin: 0;
    font-size: .8em;
    font-style: italic;
+}
+
+.post-content {
+   column-count: 2;
+   text-align: justify;
+}
+
+.subtitle {
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+    margin: 0;
 }
